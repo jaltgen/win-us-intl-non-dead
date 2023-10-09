@@ -1,5 +1,5 @@
 
-![Keyboard Layout Map...]([http://url/to/img.png](https://github.com/jaltgen/win-us-intl-non-dead/blob/main/US_Intl_Non-Dead-Quotes_JANALT-v1.jpg))
+![Keyboard Layout Map...](US_Intl_Non-Dead-Quotes_JANALT-v1.jpg)
 # What is it.
 
 A custom keyboard layout for Windows (only tried on Win 10), based on the standard US International layout that adds improved support for diacritics ("accents on letters, like German umlaute äüö"). I was dissatisfied with the standard layout having the quotes, (", ') as a dead key and have removed this. The key is now mapped as a regular key.
